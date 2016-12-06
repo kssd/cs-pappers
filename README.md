@@ -32,17 +32,17 @@
 *   Dana Scott. **A Type-Theoretical Alternative to ISWIM, CUCH, OWHY.** 1969, 1993. [pdf][Scott93.pdf]
 *   Jean-Yves Girard. **Linear Logic.** 1987. [pdf][Girard87.pdf]
 
-[Hoare69.pdf]: /C-A-R-Hoare/Hoare69.pgf
-[Backus78.pdf]: /John-Backus/Backus78.pdf
+[Hoare69.pdf]: C-A-R-Hoare/Hoare69.pgf
+[Backus78.pdf]: John-Backus/Backus78.pdf
 [ChurchRosser36.pdf]: Alonzo-Church-and-J-B-Rosser/ChurchRosser36.pdf
 [DamasMilner82.pdf]: Luis-Damas-and-Robin-Milner/DamasMilner82.pdf
 [Dijkstra75.pdf]: Edsger-W-Dijkstra/Dijkstra75.pdf
-[Gentzen35.pdf]: /Gerhard-Gentzen/Gentzen35.pdf
+[Gentzen35.pdf]: Gerhard-Gentzen/Gentzen35.pdf
 [Girard87.pdf]: Jean-Yves-Girard/Girard87.pdf
 [HarperEtal89.pdf]: Robert-Harper-John-C-Mitchell-and-Eugenio-Moggi/HarperEtal89.pdf
-[Hoare69.pdf]: /Hoare69.pdf
-[Hoare71.pdf]: /Hoare71.pdf
-[Hoare78.pdf]: /Hoare78.pdf
+[Hoare69.pdf]: C-A-R-Hoare/Hoare69.pdf
+[Hoare71.pdf]: C-A-R-Hoare/Hoare71.pdf
+[Hoare78.pdf]: C-A-R-Hoare/Hoare78.pdf
 [Howard80.pdf]: W-A-Howard/Howard80.pdf
 [Landin64.pdf]: P-J-Landin/Landin64.pdf
 [Landin66.pdf]: P-J-Landin/Landin66.pdf
