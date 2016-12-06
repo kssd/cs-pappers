@@ -14,12 +14,12 @@
 *   C. A. R. Hoare. **Communicating Sequential Processes.** 1978. [pdf][Hoare78.pdf]
 *   Per Martin-Lof. **On the Meanings of the Logical Constants and the Justifications of the Logical Laws.** 1983. [pdf][Martin-Lof83.pdf]
 *   Per Martin-Lof. **Intuitionistic Type Theory.** 1980. [pdf][Martin-Lof80.pdf]
-*   John Reynolds. **Definitional Interpreters for Higher-Order Programming Languages.** 1972. [ps][Reynolds72.ps]
+*   John Reynolds. **Definitional Interpreters for Higher-Order Programming Languages.** 1972. [pdf][Reynolds72.pdf]
 *   Dana Scott and Christopher Strachey. **Towards a Mathematical Semantics for Computer Languages.** 1971. [pdf][Scott71.pdf]
 *   Eugenio Moggi. **Computational Lambda-calculus and Monads.** 1989. [pdf][Moggi89.pdf]
 *   Eugenio Moggi. **Notions of Computation and Monads.** 1991. [pdf][Moggi91.pdf]
 *   John Backus. **Can Programming Be Liberated from the von Neumann Style? A Functional Style and Its Algebra of Programs.** 1978. [pdf][Backus78.pdf]
-*   John Reynolds. **The Essence of Algol.** 1981. [ps][Reynolds81.ps]
+*   John Reynolds. **The Essence of Algol.** 1981. [pdf][Reynolds81.pdf]
 *   W. A. Howard. **The Formulae-as-Types Notion of Construction.** 1969, 1980. [pdf][Howard80.pdf]
 *   John Reynolds. **Toward a Theory of Type Structure.** 1974. [pdf][Reynolds74.pdf]
 *   Chetan Murthy. **An Evaluation Semantics for Classical Proofs.** 1991. [pdf][Murthy91.pdf]
@@ -56,8 +56,10 @@
 [Murthy91.pdf]: Chetan-Murthy/Murthy91.pdf
 [Plotkin81.pdf]: Gordon-Plotkin/Plotkin81.pdf
 [Reynolds72.ps]: John-Reynolds/Reynolds72.ps
+[Reynolds72.pdf]: John-Reynolds/Reynolds72.pdf
 [Reynolds74.pdf]: John-Reynolds/Reynolds74.pdf
 [Reynolds81.ps]: John-Reynolds/Reynolds81.ps
+[Reynolds81.pdf]: John-Reynolds/Reynolds81.pdf
 [Reynolds83.pdf]: John-Reynolds/Reynolds83.pdf
 [Scott71.pdf]: Dana-Scott-and-Christopher-Strachey/Scott71.pdf
 [Scott93.pdf]: Dana-Scott/Scott93.pdf
