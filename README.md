@@ -32,7 +32,7 @@
 *   Dana Scott. **A Type-Theoretical Alternative to ISWIM, CUCH, OWHY.** 1969, 1993. [pdf][Scott93.pdf]
 *   Jean-Yves Girard. **Linear Logic.** 1987. [pdf][Girard87.pdf]
 *   Jean-Yves Girard. **Linear Logic.** 1987. [pdf][Girard87.pdf]
-*   Maurice Herlithy. **Wait-Free Synchronization** 1991. [pdf][Herlithy91.pdf]
+*   Maurice Herlihy. **Wait-Free Synchronization** 1991. [pdf][Herlihy91.pdf]
 
 [Hoare69.pdf]: C-A-R-Hoare/Hoare69.pgf
 [Backus78.pdf]: John-Backus/Backus78.pdf
@@ -42,7 +42,7 @@
 [Gentzen35.pdf]: Gerhard-Gentzen/Gentzen35.pdf
 [Girard87.pdf]: Jean-Yves-Girard/Girard87.pdf
 [HarperEtal89.pdf]: Robert-Harper-John-C-Mitchell-and-Eugenio-Moggi/HarperEtal89.pdf
-[Herlithy91.pdf]: Maurice-Herlithy/Herlithy91.pdf
+[Herlihy91.pdf]: Maurice-Herlihy/Herlihy91.pdf
 [Hoare69.pdf]: C-A-R-Hoare/Hoare69.pdf
 [Hoare71.pdf]: C-A-R-Hoare/Hoare71.pdf
 [Hoare78.pdf]: C-A-R-Hoare/Hoare78.pdf
