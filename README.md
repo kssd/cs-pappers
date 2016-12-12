@@ -42,7 +42,7 @@
 [Gentzen35.pdf]: Gerhard-Gentzen/Gentzen35.pdf
 [Girard87.pdf]: Jean-Yves-Girard/Girard87.pdf
 [HarperEtal89.pdf]: Robert-Harper-John-C-Mitchell-and-Eugenio-Moggi/HarperEtal89.pdf
-[Herlithy91.pdf]: Maruice-Herlithy/Herlithy91.pdf
+[Herlithy91.pdf]: Maurice-Herlithy/Herlithy91.pdf
 [Hoare69.pdf]: C-A-R-Hoare/Hoare69.pdf
 [Hoare71.pdf]: C-A-R-Hoare/Hoare71.pdf
 [Hoare78.pdf]: C-A-R-Hoare/Hoare78.pdf
